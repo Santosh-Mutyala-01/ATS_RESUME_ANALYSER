@@ -17,7 +17,7 @@ A production-quality ATS simulation system that analyzes resumes against job des
 ## 📸 Preview
 
 <p align="center">
-  <img src="Screenshot%202026-05-07%20135719.png" alt="ResumeIQ ATS Analyzer Dashboard" width="900">
+  <img src="preview.png" alt="ResumeIQ ATS Analyzer Dashboard" width="900">
 </p>
 
 ---
